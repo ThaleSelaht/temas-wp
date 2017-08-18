@@ -43,3 +43,20 @@ footer{
 	padding:20px 10px;
 	text-align: center;
 }
+
+.post a{
+	color: #333;
+}
+
+article.post{
+	border-bottom: 1px solid #CCC;
+}
+
+article.post a.button{
+	display: inline-block;
+	text-decoration: none;
+	background-color: #333;
+	color: #FFF;
+	padding:10px 5px;
+	margin:0 0 10px 0;
+}
